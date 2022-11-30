@@ -15,6 +15,12 @@ O objetivo desse projeto foi criar um pipeline de dados para extrair informaçõ
 - **Snowflake**: Para criação de um Data Warehouse e armazenamento dos dados
 - **Metabase**: Para exploração dos dados e criação de dashboards
 
+## Os componentes foram organizados na seguinte arquitetura:
+![alt text](./img/estrutura 1.png)
+![alt text](./img/estrutura 2.png)
+![alt text](./img/estrutura 3.png)
+![alt text](./img/estrutura 4.png)
+
 ## Links uteis:
 
 - **Link para os Datasets Utilizados**: https://health.google.com/covid-19/open-data/raw-data
