@@ -30,9 +30,9 @@ O objetivo desse projeto foi criar um pipeline de dados para extrair informaçõ
 ## Links uteis:
 
 - **Link para os Datasets Utilizados**: https://health.google.com/covid-19/open-data/raw-data
-- **Repositório da Aplicação**: https://github.com/moderndatastackpipeline/modern-data-stack
-- **Repositório do Airbyte**: https://github.com/moderndatastackpipeline/airbyte
-- **Repositório do Dbt**: https://github.com/moderndatastackpipeline/dbt-model
+- **Repositório da Aplicação**: https://github.com/godoycaique/googlecloud_datapipeline
+- **Repositório do Airbyte**: https://github.com/godoycaique/airbyte
+- **Repositório do Dbt**: https://github.com/godoycaique/dbt-model 
 - **Ambiente de Desenvolvimento**: https://www.gitpod.io/
 - **Documentação do Airbyte**: https://airbytehq.github.io/
 - **Documentação do Airflow**: https://airflow.apache.org/docs/
