@@ -1,3 +1,4 @@
+
 # Modern Data Stack Pipeline
 
 O objetivo desse projeto foi criar um pipeline de dados para extrair informações de uma base de dados pública acerca dos casos de COVID19 no mundo.
@@ -17,13 +18,13 @@ O objetivo desse projeto foi criar um pipeline de dados para extrair informaçõ
 
 ## Os componentes foram organizados na seguinte arquitetura:
 
-![alt text](img/estrutura 1.png)
+![enter image description here](https://github.com/godoycaique/modern_stack_data_pipeline/blob/main/img/estrutura%201.png)
 
-![alt text](./img/estrutura 2.png)
+![enter image description here](https://github.com/godoycaique/modern_stack_data_pipeline/blob/main/img/estrutura%202.png)
 
-![alt text](./img/estrutura 3.png)
+![enter image description here](https://github.com/godoycaique/modern_stack_data_pipeline/blob/main/img/estrutura%203.png)
 
-![alt text](./img/estrutura 4.png)
+![enter image description here](https://github.com/godoycaique/modern_stack_data_pipeline/blob/main/img/estrutura%204.png)
 
 
 ## Links uteis:
