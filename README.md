@@ -5,7 +5,7 @@ O objetivo desse projeto foi criar um pipeline de dados para extrair informaçõ
 # Fonte de Dados:
   - Link para os Datasets Utilizados: https://health.google.com/covid-19/open-data/raw-data
 
-Para este projeto, foram usados as seguintes tecnologias: 
+## Para este projeto, foram usados as seguintes tecnologias: 
 
 - **Gitpod**: Para criar ambiente de desenvolvimento e subir os containers
 - **Docker**: Para criação dos containers
@@ -14,6 +14,8 @@ Para este projeto, foram usados as seguintes tecnologias:
 - **DBT**: Para criação de modelo de processamento e transformação dos dados em SQL
 - **Snowflake**: Para criação de um Data Warehouse e armazenamento dos dados
 - **Metabase**: Para exploração dos dados e criação de dashboards
+
+## Links uteis:
 
 - **Link para os Datasets Utilizados**: https://health.google.com/covid-19/open-data/raw-data
 - **Repositório da Aplicação**: https://github.com/moderndatastackpipeline/modern-data-stack
