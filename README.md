@@ -17,7 +17,7 @@ O objetivo desse projeto foi criar um pipeline de dados para extrair informaçõ
 
 ## Os componentes foram organizados na seguinte arquitetura:
 
-![alt text](./img/estrutura 1.png)
+![alt text](img/estrutura 1.png)
 
 ![alt text](./img/estrutura 2.png)
 
